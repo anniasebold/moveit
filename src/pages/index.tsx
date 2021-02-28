@@ -22,7 +22,7 @@ export default function Home(props) {
         <Head>
           <link rel="shortcut icon" href="favicon.png" type="image/png" />
 
-          <title>Início | Move It</title>
+          <title>Move It - Annia</title>
         </Head>
 
         <ExperienceBar />
